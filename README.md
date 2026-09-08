@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there 👋 I'm Mohamed Lehdhane
 
-<!--
-**MohamedLehdhane/MohamedLehdhane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Cybersecurity Engineering Student**
+🔐 Interested in **Cybersecurity, Network Security & Blue Team**
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌱 Currently learning **CCNA & Cybersecurity**
+* 🌐 Interested in **Networking, Network Security & SOC**
+* 🐧 Learning and practicing with **Linux**
+* 💻 Programming with **Python & C**
+* 🛠️ Building practical projects and networking labs
+* 🎯 Goal: Build a career in **Cybersecurity**
+
+## 🔐 Cybersecurity Interests
+
+* 🛡️ SOC Analyst
+* 🔎 Security Analyst
+* 🌐 Network Security
+* 🚨 Incident Response
+* 🕵️ Digital Forensics
+* 🔴 Penetration Testing
+* 🔵 Blue Team
+* 🧪 Vulnerability Assessment
+
+## 📚 Currently Learning
+
+* CCNA
+* Network Security
+* Linux
+* Python for Cybersecurity
+* Cybersecurity Fundamentals
+
+## 🛠️ Technologies & Tools
+
+`Cisco Packet Tracer` `Linux` `Git` `GitHub` `Python` `C` `Wireshark` `Nmap`
+
+## 📂 Projects
+
+Check out my repositories below to see my networking labs, cybersecurity projects and experiments.
+
+---
+
+⭐ Thanks for visiting my profile!
